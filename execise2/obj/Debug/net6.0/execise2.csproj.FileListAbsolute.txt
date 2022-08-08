@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\bin\Debug\net6.0\execise2.exe
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\bin\Debug\net6.0\execise2.deps.json
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\bin\Debug\net6.0\execise2.runtimeconfig.json
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\bin\Debug\net6.0\execise2.dll
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\bin\Debug\net6.0\execise2.pdb
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.dll
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\refint\execise2.dll
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.pdb
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\execise2.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise2\obj\Debug\net6.0\ref\execise2.dll
