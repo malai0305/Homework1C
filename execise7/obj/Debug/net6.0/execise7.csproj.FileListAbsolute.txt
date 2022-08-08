@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\bin\Debug\net6.0\execise7.exe
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\bin\Debug\net6.0\execise7.deps.json
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\bin\Debug\net6.0\execise7.runtimeconfig.json
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\bin\Debug\net6.0\execise7.dll
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\bin\Debug\net6.0\execise7.pdb
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.dll
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\refint\execise7.dll
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.pdb
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\execise7.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Документы\Homework1C\execise7\obj\Debug\net6.0\ref\execise7.dll

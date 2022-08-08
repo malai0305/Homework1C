@@ -1,14 +1,19 @@
-﻿// 7. Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
-
+﻿// 7. Дано число из отрезка [10, 99]. Показать наибольшую цифру числа.
 Console.Clear();
 
-int a = new Random().Next(10, 100);
+int Number = new Random().Next(10, 100);
 int Max = 0;
 
 int MaxDigit()
 {
-    int One = a / 10;
-    int Two = a % 10;
-    if (One > Two) Max = One;
-    else Max = Two;
+    int DigitOne = Number / 10;
+    int DigitTwo = Number % 10;
+    if (DigitOne > DigitTwo) Max = DigitOne;
+    else Max = DigitTwo;
+
+    return Max;
 }
+MaxDigit();
+System.Console.WriteLine();
+System.Console.WriteLine($"В числе {Number} наибольшая цифра {Max}");
+System.Console.WriteLine();
